@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Greetings land-dwellers,
+I am Hermit, and I come in peace. Take me to your leader.
